@@ -1,2 +1,0 @@
-# newraps
-algoritmo de newraps

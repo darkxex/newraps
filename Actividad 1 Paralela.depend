@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600708081 source:c:\users\xex\desktop\actividad 1 paralela\actividad 1 paralela\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<sstream>
+	<vector>
+	<cstdlib>
+	<bits/stdc++.h>
+	<iomanip>
+	<stdlib.h>
+
